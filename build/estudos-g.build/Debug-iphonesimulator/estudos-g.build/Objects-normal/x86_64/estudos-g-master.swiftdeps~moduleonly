@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "d3660e6d95b85992d499f8b03898691a"
+build_time: [1560909275, 193965000]
+inputs:
+  "/Users/gilmarqueiroz/Desktop/estudos-g/estudos-g/ViewController.swift": [1560909267, 970579945]
+  "/Users/gilmarqueiroz/Desktop/estudos-g/estudos-g/AppDelegate.swift": [1560909267, 958342507]
